@@ -1,0 +1,688 @@
+2025-03-19 14:05:21 INFO log.py:21: Yasb v1.6.6
+2025-03-19 14:05:21 INFO config.py:58: Created default config file at C:\Users\xuanchat\.config\yasb\config.yaml
+2025-03-19 14:05:21 INFO config.py:72: Created default stylesheet at C:\Users\xuanchat\.config\yasb\styles.css
+2025-03-19 14:05:26 DEBUG win32.py:55: Looking up time zone info from registry
+2025-03-19 14:05:44 INFO weather.py:369: Fetched new weather data at 2025-03-19 14:05:44.513675
+2025-03-19 14:05:44 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-03-19 14:05:46 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 36px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1366, Screen Height: 768]
+2025-03-19 14:05:48 INFO event_listener.py:52: Created named pipe yasb-959d17f7-0490-11f0-a586-f4b7e2fcdf53
+2025-03-19 14:05:48 INFO watcher.py:39: Created file watcher for path C:\Users\xuanchat\.config\yasb
+2025-03-19 14:05:49 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-959d17f7-0490-11f0-a586-f4b7e2fcdf53
+2025-03-19 14:05:49 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-03-19 14:05:49 DEBUG _windows.py:192: Thread started
+2025-03-19 14:05:55 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-03-19 14:09:42 INFO tray.py:246: Exiting Application...
+2025-03-19 14:09:42 DEBUG _windows.py:218: Stopping worker thread...
+2025-03-19 14:09:42 DEBUG _windows.py:201: Exiting thread
+2025-03-19 14:09:42 DEBUG _windows.py:75: Closing
+2025-03-20 12:44:49 INFO log.py:21: Yasb v1.6.6
+2025-03-20 12:44:52 DEBUG win32.py:55: Looking up time zone info from registry
+2025-03-20 12:45:04 INFO weather.py:369: Fetched new weather data at 2025-03-20 12:45:04.802963
+2025-03-20 12:45:04 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-03-20 12:45:06 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 36px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1366, Screen Height: 768]
+2025-03-20 12:45:08 INFO event_listener.py:52: Created named pipe yasb-7ad7d264-054e-11f0-8f5f-f4b7e2fcdf53
+2025-03-20 12:45:08 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-7ad7d264-054e-11f0-8f5f-f4b7e2fcdf53
+2025-03-20 12:45:08 INFO watcher.py:39: Created file watcher for path C:\Users\xuanchat\.config\yasb
+2025-03-20 12:45:08 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-03-20 12:45:08 DEBUG _windows.py:192: Thread started
+2025-03-20 12:45:08 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-03-20 12:45:55 INFO tray.py:246: Exiting Application...
+2025-03-20 12:45:55 DEBUG _windows.py:218: Stopping worker thread...
+2025-03-20 12:45:55 DEBUG _windows.py:201: Exiting thread
+2025-03-20 12:45:55 DEBUG _windows.py:75: Closing
+2025-03-20 12:45:55 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL update_event of TaskbarWidget object at 0x000001732A8DFCF0>. Removing link to WinEvent.EventObjectDestroy.
+2025-03-20 12:46:03 INFO log.py:21: Yasb v1.6.6
+2025-03-20 12:46:06 DEBUG win32.py:55: Looking up time zone info from registry
+2025-03-20 12:46:17 INFO weather.py:369: Fetched new weather data at 2025-03-20 12:46:17.584178
+2025-03-20 12:46:17 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-03-20 12:46:18 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1366, Screen Height: 768]
+2025-03-20 12:46:20 INFO event_listener.py:52: Created named pipe yasb-a5f21612-054e-11f0-80cc-f4b7e2fcdf53
+2025-03-20 12:46:20 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-a5f21612-054e-11f0-80cc-f4b7e2fcdf53
+2025-03-20 12:46:20 INFO watcher.py:39: Created file watcher for path C:\Users\xuanchat\.config\yasb
+2025-03-20 12:46:20 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-03-20 12:46:20 DEBUG _windows.py:192: Thread started
+2025-03-20 12:46:20 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-03-20 12:46:21 INFO tray.py:246: Exiting Application...
+2025-03-20 12:46:28 DEBUG _windows.py:218: Stopping worker thread...
+2025-03-20 12:46:28 DEBUG _windows.py:201: Exiting thread
+2025-03-20 12:46:28 DEBUG _windows.py:75: Closing
+2025-03-20 12:46:28 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL update_event of TaskbarWidget object at 0x00000212AE690050>. Removing link to WinEvent.EventObjectDestroy.
+2025-03-20 12:46:28 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL update_event of TaskbarWidget object at 0x00000212AE690050>. Removing link to WinEvent.EventSystemForeground.
+2025-03-20 12:46:28 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL update_event of TaskbarWidget object at 0x00000212AE690050>. Removing link to WinEvent.EventObjectFocus.
+2025-03-20 12:46:29 INFO log.py:21: Yasb v1.6.6
+2025-03-20 12:46:30 INFO weather.py:369: Fetched new weather data at 2025-03-20 12:46:30.755660
+2025-03-20 12:46:30 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-03-20 12:46:31 DEBUG win32.py:55: Looking up time zone info from registry
+2025-03-20 12:46:31 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 28px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1366, Screen Height: 768]
+2025-03-20 12:46:35 INFO event_listener.py:52: Created named pipe yasb-aef9d558-054e-11f0-a8e1-f4b7e2fcdf53
+2025-03-20 12:46:35 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-aef9d558-054e-11f0-a8e1-f4b7e2fcdf53
+2025-03-20 12:46:35 INFO watcher.py:39: Created file watcher for path C:\Users\xuanchat\.config\yasb
+2025-03-20 12:46:35 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-03-20 12:46:35 DEBUG _windows.py:192: Thread started
+2025-03-20 12:46:38 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-03-20 13:06:30 INFO weather.py:369: Fetched new weather data at 2025-03-20 13:06:30.742688
+2025-03-20 13:26:30 INFO weather.py:369: Fetched new weather data at 2025-03-20 13:26:30.977513
+2025-03-20 13:46:30 INFO weather.py:369: Fetched new weather data at 2025-03-20 13:46:30.980202
+2025-03-20 14:06:30 INFO weather.py:369: Fetched new weather data at 2025-03-20 14:06:30.989099
+2025-03-20 14:26:30 INFO weather.py:369: Fetched new weather data at 2025-03-20 14:26:30.989218
+2025-03-20 14:46:30 INFO weather.py:369: Fetched new weather data at 2025-03-20 14:46:30.998649
+2025-03-20 14:58:47 INFO log.py:21: Yasb v1.6.6
+2025-03-20 14:58:49 INFO weather.py:369: Fetched new weather data at 2025-03-20 14:58:49.154710
+2025-03-20 14:58:49 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-03-20 14:58:50 DEBUG win32.py:55: Looking up time zone info from registry
+2025-03-20 14:58:58 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 28px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1366, Screen Height: 768]
+2025-03-20 14:59:00 INFO event_listener.py:52: Created named pipe yasb-2e375d95-0561-11f0-b7ad-f4b7e2fcdf53
+2025-03-20 14:59:00 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-2e375d95-0561-11f0-b7ad-f4b7e2fcdf53
+2025-03-20 14:59:13 INFO watcher.py:39: Created file watcher for path C:\Users\xuanchat\.config\yasb
+2025-03-20 14:59:13 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-03-20 14:59:14 DEBUG _windows.py:192: Thread started
+2025-03-20 14:59:18 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-03-20 15:18:49 INFO weather.py:369: Fetched new weather data at 2025-03-20 15:18:49.337411
+2025-03-20 15:38:49 INFO weather.py:369: Fetched new weather data at 2025-03-20 15:38:49.581431
+2025-03-20 15:58:49 INFO weather.py:369: Fetched new weather data at 2025-03-20 15:58:49.782431
+2025-03-20 15:59:39 INFO tray.py:202: Removed shortcut from C:\Users\xuanchat\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\yasb.lnk
+2025-03-20 15:59:43 INFO tray.py:246: Exiting Application...
+2025-03-20 15:59:43 DEBUG _windows.py:218: Stopping worker thread...
+2025-03-20 15:59:43 DEBUG _windows.py:201: Exiting thread
+2025-03-20 15:59:43 DEBUG _windows.py:75: Closing
+2025-03-27 19:52:44 INFO log.py:21: Yasb v1.6.6
+2025-03-27 19:52:46 INFO weather.py:369: Fetched new weather data at 2025-03-27 19:52:46.168210
+2025-03-27 19:52:46 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-03-27 19:52:47 DEBUG win32.py:55: Looking up time zone info from registry
+2025-03-27 19:52:52 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 28px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1366, Screen Height: 768]
+2025-03-27 19:52:55 INFO event_listener.py:52: Created named pipe yasb-6698880e-0b0a-11f0-b464-f4b7e2fcdf53
+2025-03-27 19:52:55 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-6698880e-0b0a-11f0-b464-f4b7e2fcdf53
+2025-03-27 19:52:55 INFO watcher.py:39: Created file watcher for path C:\Users\xuanchat\.config\yasb
+2025-03-27 19:52:55 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-03-27 19:52:55 DEBUG _windows.py:192: Thread started
+2025-03-27 19:52:55 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-03-27 19:53:25 ERROR config.py:102: The file 'C:\Users\xuanchat\.config\yasb\config.yaml' could not be read. Do you have read/write permissions?
+2025-03-27 19:53:25 ERROR css_processor.py:20: CSSProcessor Error 'C:\Users\xuanchat\.config\yasb\styles.css': [Errno 13] Permission denied: 'C:\\Users\\xuanchat\\.config\\yasb\\styles.css'
+2025-03-27 19:53:25 ERROR css_processor.py:20: CSSProcessor Error 'C:\Users\xuanchat\.config\yasb\styles.css': [Errno 13] Permission denied: 'C:\\Users\\xuanchat\\.config\\yasb\\styles.css'
+2025-03-27 19:53:36 INFO tray.py:240: Reloading Application...
+2025-03-27 19:53:37 INFO log.py:21: Yasb v1.6.6
+2025-03-27 19:53:37 DEBUG win32.py:55: Looking up time zone info from registry
+2025-03-27 19:53:38 INFO weather.py:369: Fetched new weather data at 2025-03-27 19:53:38.092494
+2025-03-27 19:53:39 ERROR widget_builder.py:88: Failed to validate widget(s) due to invalid options  - systray
+      show_network:
+      - unknown field
+      show_unpinned_button:
+      - unknown field
+      
+2025-03-27 19:53:43 INFO watcher.py:39: Created file watcher for path C:\Users\xuanchat\.config\yasb
+2025-03-27 19:53:43 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-03-27 19:53:43 DEBUG _windows.py:192: Thread started
+2025-03-27 19:59:05 INFO log.py:21: Yasb v1.6.6
+2025-03-27 19:59:05 INFO weather.py:369: Fetched new weather data at 2025-03-27 19:59:05.989083
+2025-03-27 19:59:06 DEBUG win32.py:55: Looking up time zone info from registry
+2025-03-27 19:59:10 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-03-27 19:59:11 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 28px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1366, Screen Height: 768]
+2025-03-27 19:59:14 ERROR widget_builder.py:88: Failed to validate widget(s) due to invalid options  - media
+      controls_hide:
+      - unknown field
+      
+2025-03-27 19:59:14 INFO event_listener.py:52: Created named pipe yasb-490807c3-0b0b-11f0-bee9-f4b7e2fcdf53
+2025-03-27 19:59:14 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-490807c3-0b0b-11f0-bee9-f4b7e2fcdf53
+2025-03-27 19:59:15 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-03-27 19:59:24 INFO watcher.py:39: Created file watcher for path C:\Users\xuanchat\.config\yasb
+2025-03-27 19:59:24 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-03-27 19:59:24 DEBUG _windows.py:192: Thread started
+2025-03-27 19:59:45 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-03-27 20:09:05 INFO weather.py:369: Fetched new weather data at 2025-03-27 20:09:05.977816
+2025-03-27 20:19:05 INFO weather.py:369: Fetched new weather data at 2025-03-27 20:19:05.988238
+2025-03-27 20:29:05 INFO weather.py:369: Fetched new weather data at 2025-03-27 20:29:05.961065
+2025-03-27 20:39:05 INFO weather.py:369: Fetched new weather data at 2025-03-27 20:39:05.963951
+2025-03-27 20:49:05 INFO weather.py:369: Fetched new weather data at 2025-03-27 20:49:05.963168
+2025-03-27 20:59:05 INFO weather.py:369: Fetched new weather data at 2025-03-27 20:59:05.976187
+2025-03-27 21:00:40 INFO tray.py:192: Created shortcut at C:\Users\xuanchat\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\yasb.lnk
+2025-03-27 21:01:11 INFO tray.py:240: Reloading Application...
+2025-03-27 21:01:12 INFO log.py:21: Yasb v1.6.6
+2025-03-27 21:01:13 INFO weather.py:369: Fetched new weather data at 2025-03-27 21:01:13.255125
+2025-03-27 21:01:13 DEBUG win32.py:55: Looking up time zone info from registry
+2025-03-27 21:01:14 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-03-27 21:01:14 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 28px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1366, Screen Height: 768]
+2025-03-27 21:01:16 WARNING weather.py:414: Could not load icon http://cdn.weatherapi.com/weather/64x64/day/122.png: <urlopen error timed out>
+2025-03-27 21:01:17 ERROR widget_builder.py:88: Failed to validate widget(s) due to invalid options  - media
+      controls_hide:
+      - unknown field
+      
+2025-03-27 21:01:17 INFO event_listener.py:52: Created named pipe yasb-f3cb0b17-0b13-11f0-a7f5-f4b7e2fcdf53
+2025-03-27 21:01:17 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-f3cb0b17-0b13-11f0-a7f5-f4b7e2fcdf53
+2025-03-27 21:01:17 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-03-27 21:01:28 INFO watcher.py:39: Created file watcher for path C:\Users\xuanchat\.config\yasb
+2025-03-27 21:01:28 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-03-27 21:01:28 DEBUG _windows.py:192: Thread started
+2025-03-27 21:11:13 INFO weather.py:369: Fetched new weather data at 2025-03-27 21:11:13.254843
+2025-03-27 21:21:13 INFO weather.py:369: Fetched new weather data at 2025-03-27 21:21:13.251592
+2025-03-27 21:31:13 INFO weather.py:369: Fetched new weather data at 2025-03-27 21:31:13.246622
+2025-03-27 21:32:00 DEBUG _windows.py:218: Stopping worker thread...
+2025-03-27 21:32:00 DEBUG _windows.py:201: Exiting thread
+2025-03-27 21:32:00 DEBUG _windows.py:75: Closing
+2025-03-28 13:18:54 INFO log.py:21: Yasb v1.6.6
+2025-03-28 13:18:56 INFO weather.py:369: Fetched new weather data at 2025-03-28 13:18:56.125952
+2025-03-28 13:19:00 DEBUG win32.py:55: Looking up time zone info from registry
+2025-03-28 13:19:28 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-03-28 13:19:29 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 28px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1366, Screen Height: 768]
+2025-03-28 13:19:35 ERROR widget_builder.py:88: Failed to validate widget(s) due to invalid options  - media
+      controls_hide:
+      - unknown field
+      
+2025-03-28 13:19:35 INFO event_listener.py:52: Created named pipe yasb-9eac6e00-0b9c-11f0-b42c-f4b7e2fcdf53
+2025-03-28 13:19:35 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-9eac6e00-0b9c-11f0-b42c-f4b7e2fcdf53
+2025-03-28 13:19:37 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-03-28 13:25:22 INFO watcher.py:39: Created file watcher for path C:\Users\xuanchat\.config\yasb
+2025-03-28 13:25:22 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-03-28 13:25:22 DEBUG _windows.py:192: Thread started
+2025-03-28 13:28:56 INFO weather.py:369: Fetched new weather data at 2025-03-28 13:28:56.092577
+2025-03-28 13:38:56 INFO weather.py:369: Fetched new weather data at 2025-03-28 13:38:56.110763
+2025-03-28 13:48:56 INFO weather.py:369: Fetched new weather data at 2025-03-28 13:48:56.091664
+2025-03-28 13:58:56 INFO weather.py:369: Fetched new weather data at 2025-03-28 13:58:56.103557
+2025-03-28 14:08:56 INFO weather.py:369: Fetched new weather data at 2025-03-28 14:08:56.094125
+2025-03-28 14:18:56 INFO weather.py:369: Fetched new weather data at 2025-03-28 14:18:56.267342
+2025-03-28 14:28:56 INFO weather.py:369: Fetched new weather data at 2025-03-28 14:28:56.114510
+2025-03-28 14:38:56 INFO weather.py:369: Fetched new weather data at 2025-03-28 14:38:56.118927
+2025-03-28 14:40:40 DEBUG _windows.py:218: Stopping worker thread...
+2025-03-28 14:40:40 DEBUG _windows.py:201: Exiting thread
+2025-03-28 14:40:40 DEBUG _windows.py:75: Closing
+2025-03-28 14:40:41 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL foreground_change of ActiveWindowWidget object at 0x000002B30C327570>. Removing link to WinEvent.EventSystemForeground.
+2025-03-29 11:59:20 INFO log.py:21: Yasb v1.6.6
+2025-03-29 11:59:24 INFO weather.py:369: Fetched new weather data at 2025-03-29 11:59:24.936579
+2025-03-29 11:59:27 DEBUG win32.py:55: Looking up time zone info from registry
+2025-03-29 11:59:27 WARNING weather.py:416: An unexpected error occurred while loading icon http://cdn.weatherapi.com/weather/64x64/day/176.png: timed out
+2025-03-29 11:59:44 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-03-29 11:59:47 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 28px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1366, Screen Height: 768]
+2025-03-29 11:59:50 ERROR widget_builder.py:88: Failed to validate widget(s) due to invalid options  - media
+      controls_hide:
+      - unknown field
+      
+2025-03-29 11:59:50 INFO event_listener.py:52: Created named pipe yasb-a504b886-0c5a-11f0-ab6c-f4b7e2fcdf53
+2025-03-29 11:59:50 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-a504b886-0c5a-11f0-ab6c-f4b7e2fcdf53
+2025-03-29 11:59:52 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-03-29 12:00:25 INFO watcher.py:39: Created file watcher for path C:\Users\xuanchat\.config\yasb
+2025-03-29 12:00:25 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-03-29 12:00:25 DEBUG _windows.py:192: Thread started
+2025-03-29 12:09:24 INFO weather.py:369: Fetched new weather data at 2025-03-29 12:09:24.919753
+2025-03-29 12:19:24 INFO weather.py:369: Fetched new weather data at 2025-03-29 12:19:24.924482
+2025-03-29 12:29:27 INFO weather.py:369: Fetched new weather data at 2025-03-29 12:29:27.312782
+2025-03-29 12:39:24 INFO weather.py:369: Fetched new weather data at 2025-03-29 12:39:24.940781
+2025-03-29 12:49:24 INFO weather.py:369: Fetched new weather data at 2025-03-29 12:49:24.935926
+2025-03-29 12:59:24 INFO weather.py:369: Fetched new weather data at 2025-03-29 12:59:24.947216
+2025-03-29 13:09:24 INFO weather.py:369: Fetched new weather data at 2025-03-29 13:09:24.934496
+2025-03-29 13:19:24 INFO weather.py:369: Fetched new weather data at 2025-03-29 13:19:24.944885
+2025-03-29 13:29:24 INFO weather.py:369: Fetched new weather data at 2025-03-29 13:29:24.941480
+2025-03-29 13:29:30 DEBUG _windows.py:218: Stopping worker thread...
+2025-03-29 13:29:30 DEBUG _windows.py:201: Exiting thread
+2025-03-29 13:29:30 DEBUG _windows.py:75: Closing
+2025-03-29 13:29:30 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL foreground_change of ActiveWindowWidget object at 0x0000020AC316F7F0>. Removing link to WinEvent.EventSystemForeground.
+2025-03-29 16:58:57 INFO log.py:21: Yasb v1.6.6
+2025-03-29 16:58:57 INFO weather.py:369: Fetched new weather data at 2025-03-29 16:58:57.584784
+2025-03-29 16:58:58 DEBUG win32.py:55: Looking up time zone info from registry
+2025-03-29 16:59:07 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-03-29 16:59:08 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 28px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1366, Screen Height: 768]
+2025-03-29 16:59:11 ERROR widget_builder.py:88: Failed to validate widget(s) due to invalid options  - media
+      controls_hide:
+      - unknown field
+      
+2025-03-29 16:59:11 INFO event_listener.py:52: Created named pipe yasb-76823e8d-0c84-11f0-9eaf-f4b7e2fcdf53
+2025-03-29 16:59:11 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-76823e8d-0c84-11f0-9eaf-f4b7e2fcdf53
+2025-03-29 16:59:12 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-03-29 16:59:41 INFO watcher.py:39: Created file watcher for path C:\Users\xuanchat\.config\yasb
+2025-03-29 16:59:41 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-03-29 16:59:41 DEBUG _windows.py:192: Thread started
+2025-03-29 17:08:57 INFO weather.py:369: Fetched new weather data at 2025-03-29 17:08:57.582113
+2025-03-29 17:18:57 INFO weather.py:369: Fetched new weather data at 2025-03-29 17:18:57.573493
+2025-03-29 17:28:57 INFO weather.py:369: Fetched new weather data at 2025-03-29 17:28:57.576717
+2025-03-29 17:38:57 INFO weather.py:369: Fetched new weather data at 2025-03-29 17:38:57.579769
+2025-03-29 17:48:57 INFO weather.py:369: Fetched new weather data at 2025-03-29 17:48:57.575226
+2025-03-29 17:58:57 INFO weather.py:369: Fetched new weather data at 2025-03-29 17:58:57.583032
+2025-03-29 18:08:57 INFO weather.py:369: Fetched new weather data at 2025-03-29 18:08:57.581565
+2025-03-29 18:18:57 INFO weather.py:369: Fetched new weather data at 2025-03-29 18:18:57.577012
+2025-03-29 18:28:57 INFO weather.py:369: Fetched new weather data at 2025-03-29 18:28:57.577546
+2025-03-29 18:38:57 INFO weather.py:369: Fetched new weather data at 2025-03-29 18:38:57.575669
+2025-03-29 18:48:57 INFO weather.py:369: Fetched new weather data at 2025-03-29 18:48:57.572746
+2025-03-29 18:58:57 INFO weather.py:369: Fetched new weather data at 2025-03-29 18:58:57.581333
+2025-03-29 19:08:57 INFO weather.py:369: Fetched new weather data at 2025-03-29 19:08:57.577670
+2025-03-29 19:18:57 INFO weather.py:369: Fetched new weather data at 2025-03-29 19:18:57.574930
+2025-03-29 19:28:57 INFO weather.py:369: Fetched new weather data at 2025-03-29 19:28:57.586494
+2025-03-29 19:38:57 INFO weather.py:369: Fetched new weather data at 2025-03-29 19:38:57.573961
+2025-03-29 19:48:57 INFO weather.py:369: Fetched new weather data at 2025-03-29 19:48:57.576748
+2025-03-29 19:58:57 INFO weather.py:369: Fetched new weather data at 2025-03-29 19:58:57.587883
+2025-03-29 20:08:57 INFO weather.py:369: Fetched new weather data at 2025-03-29 20:08:57.595919
+2025-03-29 20:18:57 INFO weather.py:369: Fetched new weather data at 2025-03-29 20:18:57.600265
+2025-03-29 20:28:59 INFO weather.py:369: Fetched new weather data at 2025-03-29 20:28:59.500383
+2025-03-29 20:38:57 INFO weather.py:369: Fetched new weather data at 2025-03-29 20:38:57.595704
+2025-03-29 20:48:57 INFO weather.py:369: Fetched new weather data at 2025-03-29 20:48:57.588550
+2025-03-29 20:59:14 INFO weather.py:369: Fetched new weather data at 2025-03-29 20:59:14.390463
+2025-03-29 21:08:57 INFO weather.py:369: Fetched new weather data at 2025-03-29 21:08:57.715193
+2025-03-29 21:18:57 INFO weather.py:369: Fetched new weather data at 2025-03-29 21:18:57.622385
+2025-03-29 21:28:57 INFO weather.py:369: Fetched new weather data at 2025-03-29 21:28:57.735437
+2025-03-29 21:38:57 INFO weather.py:369: Fetched new weather data at 2025-03-29 21:38:57.756434
+2025-03-29 21:48:57 INFO weather.py:369: Fetched new weather data at 2025-03-29 21:48:57.636022
+2025-03-29 21:58:29 INFO log.py:21: Yasb v1.6.6
+2025-03-29 21:58:31 INFO weather.py:369: Fetched new weather data at 2025-03-29 21:58:31.074113
+2025-03-29 21:58:32 DEBUG win32.py:55: Looking up time zone info from registry
+2025-03-29 21:58:44 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-03-29 21:58:45 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 28px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1366, Screen Height: 768]
+2025-03-29 21:58:47 ERROR widget_builder.py:88: Failed to validate widget(s) due to invalid options  - media
+      controls_hide:
+      - unknown field
+      
+2025-03-29 21:58:47 INFO event_listener.py:52: Created named pipe yasb-5176c9a1-0cae-11f0-bba0-f4b7e2fcdf53
+2025-03-29 21:58:47 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-5176c9a1-0cae-11f0-bba0-f4b7e2fcdf53
+2025-03-29 21:58:49 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-03-29 21:59:32 INFO watcher.py:39: Created file watcher for path C:\Users\xuanchat\.config\yasb
+2025-03-29 21:59:32 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-03-29 21:59:32 DEBUG _windows.py:192: Thread started
+2025-03-29 21:59:37 DEBUG _windows.py:218: Stopping worker thread...
+2025-03-29 21:59:37 DEBUG _windows.py:201: Exiting thread
+2025-03-29 21:59:37 DEBUG _windows.py:75: Closing
+2025-03-30 07:57:11 INFO log.py:21: Yasb v1.6.6
+2025-03-30 07:57:12 INFO weather.py:369: Fetched new weather data at 2025-03-30 07:57:12.485858
+2025-03-30 07:57:12 ERROR weather.py:472: Error fetching weather data: <urlopen error [Errno 11001] getaddrinfo failed>
+2025-03-30 07:57:13 DEBUG win32.py:55: Looking up time zone info from registry
+2025-03-30 07:57:19 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-03-30 07:57:20 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 28px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1366, Screen Height: 768]
+2025-03-30 07:57:21 ERROR widget_builder.py:88: Failed to validate widget(s) due to invalid options  - media
+      controls_hide:
+      - unknown field
+      
+2025-03-30 07:57:21 INFO event_listener.py:52: Created named pipe yasb-efbce889-0d01-11f0-800e-843a4b54959c
+2025-03-30 07:57:21 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-efbce889-0d01-11f0-800e-843a4b54959c
+2025-03-30 07:57:22 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-03-30 07:57:30 INFO watcher.py:39: Created file watcher for path C:\Users\xuanchat\.config\yasb
+2025-03-30 07:57:30 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-03-30 07:57:30 DEBUG _windows.py:192: Thread started
+2025-03-30 08:07:12 INFO weather.py:369: Fetched new weather data at 2025-03-30 08:07:12.480455
+2025-03-30 08:15:00 INFO log.py:21: Yasb v1.6.6
+2025-03-30 08:15:01 DEBUG win32.py:55: Looking up time zone info from registry
+2025-03-30 08:15:20 INFO weather.py:369: Fetched new weather data at 2025-03-30 08:15:20.717370
+2025-03-30 08:15:20 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-03-30 08:15:22 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1366, Screen Height: 768]
+2025-03-30 08:15:23 INFO event_listener.py:52: Created named pipe yasb-74d3baf4-0d04-11f0-b1e3-f4b7e2fcdf53
+2025-03-30 08:15:23 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-74d3baf4-0d04-11f0-b1e3-f4b7e2fcdf53
+2025-03-30 08:15:24 INFO watcher.py:39: Created file watcher for path C:\Users\xuanchat\.config\yasb
+2025-03-30 08:15:24 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-03-30 08:15:24 DEBUG _windows.py:192: Thread started
+2025-03-30 08:15:24 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-03-30 08:16:28 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-74d3baf4-0d04-11f0-b1e3-f4b7e2fcdf53
+2025-03-30 08:19:09 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2025-03-30 08:19:09 INFO event_listener.py:93: Attempting to reconnect...
+2025-03-30 08:19:14 INFO event_listener.py:52: Created named pipe yasb-74d3baf4-0d04-11f0-b1e3-f4b7e2fcdf53
+2025-03-30 08:19:14 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-74d3baf4-0d04-11f0-b1e3-f4b7e2fcdf53
+2025-03-30 08:19:15 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-03-30 08:24:00 INFO log.py:21: Yasb v1.6.6
+2025-03-30 08:24:01 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-03-30 08:24:01 DEBUG win32.py:55: Looking up time zone info from registry
+2025-03-30 08:24:02 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 44px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1366, Screen Height: 768]
+2025-03-30 08:24:02 INFO event_listener.py:52: Created named pipe yasb-a9b6238b-0d05-11f0-aa5d-f4b7e2fcdf53
+2025-03-30 08:24:02 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-a9b6238b-0d05-11f0-aa5d-f4b7e2fcdf53
+2025-03-30 08:24:02 INFO watcher.py:39: Created file watcher for path C:\Users\xuanchat\.config\yasb
+2025-03-30 08:24:02 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-03-30 08:24:02 DEBUG _windows.py:192: Thread started
+2025-03-30 08:24:03 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-03-30 08:24:29 INFO log.py:21: Yasb v1.6.6
+2025-03-30 08:24:30 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-03-30 08:24:30 DEBUG win32.py:55: Looking up time zone info from registry
+2025-03-30 08:24:31 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 44px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1366, Screen Height: 768]
+2025-03-30 08:24:31 INFO event_listener.py:52: Created named pipe yasb-bafc2653-0d05-11f0-a0b2-f4b7e2fcdf53
+2025-03-30 08:24:31 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-bafc2653-0d05-11f0-a0b2-f4b7e2fcdf53
+2025-03-30 08:24:31 INFO watcher.py:39: Created file watcher for path C:\Users\xuanchat\.config\yasb
+2025-03-30 08:24:31 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-03-30 08:24:31 DEBUG _windows.py:192: Thread started
+2025-03-30 08:24:32 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-03-30 08:24:40 ERROR wallpapers.py:271: error: 'wal' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-03-30 08:24:40 ERROR wallpapers.py:271: error: 'pywalfox' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-03-30 08:24:41 ERROR wallpapers.py:271: error: The argument 'C:\Users\shane\yasb.ps1' is not recognized as the name of a script file. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+
+2025-03-30 08:30:23 ERROR config.py:102: The file 'C:\Users\xuanchat\.config\yasb\config.yaml' could not be read. Do you have read/write permissions?
+2025-03-30 08:30:23 ERROR config.py:102: The file 'C:\Users\xuanchat\.config\yasb\config.yaml' could not be read. Do you have read/write permissions?
+2025-03-30 08:30:23 ERROR config.py:102: The file 'C:\Users\xuanchat\.config\yasb\config.yaml' could not be read. Do you have read/write permissions?
+2025-03-30 08:30:23 ERROR css_processor.py:20: CSSProcessor Error 'C:\Users\xuanchat\.config\yasb\styles.css': [Errno 13] Permission denied: 'C:\\Users\\xuanchat\\.config\\yasb\\styles.css'
+2025-03-30 08:30:23 ERROR css_processor.py:20: CSSProcessor Error 'C:\Users\xuanchat\.config\yasb\styles.css': [Errno 13] Permission denied: 'C:\\Users\\xuanchat\\.config\\yasb\\styles.css'
+2025-03-30 08:30:23 ERROR css_processor.py:20: CSSProcessor Error 'C:\Users\xuanchat\.config\yasb\styles.css': [Errno 13] Permission denied: 'C:\\Users\\xuanchat\\.config\\yasb\\styles.css'
+2025-03-30 08:30:38 INFO tray.py:240: Reloading Application...
+2025-03-30 08:30:39 INFO log.py:21: Yasb v1.6.6
+2025-03-30 08:30:39 DEBUG win32.py:55: Looking up time zone info from registry
+2025-03-30 08:30:40 INFO weather.py:369: Fetched new weather data at 2025-03-30 08:30:40.468928
+2025-03-30 08:30:40 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-03-30 08:30:40 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1366, Screen Height: 768]
+2025-03-30 08:30:41 INFO event_listener.py:52: Created named pipe yasb-97d3679d-0d06-11f0-9444-f4b7e2fcdf53
+2025-03-30 08:30:41 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-97d3679d-0d06-11f0-9444-f4b7e2fcdf53
+2025-03-30 08:30:41 INFO watcher.py:39: Created file watcher for path C:\Users\xuanchat\.config\yasb
+2025-03-30 08:30:41 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-03-30 08:30:41 DEBUG _windows.py:192: Thread started
+2025-03-30 08:30:42 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-03-30 08:31:43 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-97d3679d-0d06-11f0-9444-f4b7e2fcdf53
+2025-03-30 08:33:20 INFO log.py:21: Yasb v1.6.6
+2025-03-30 08:33:21 DEBUG win32.py:55: Looking up time zone info from registry
+2025-03-30 08:33:21 INFO weather.py:369: Fetched new weather data at 2025-03-30 08:33:21.783967
+2025-03-30 08:33:21 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-03-30 08:33:22 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1366, Screen Height: 768]
+2025-03-30 08:33:24 INFO event_listener.py:52: Created named pipe yasb-f8b492ca-0d06-11f0-9d6f-f4b7e2fcdf53
+2025-03-30 08:33:24 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-f8b492ca-0d06-11f0-9d6f-f4b7e2fcdf53
+2025-03-30 08:33:24 INFO watcher.py:39: Created file watcher for path C:\Users\xuanchat\.config\yasb
+2025-03-30 08:33:24 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-03-30 08:33:24 DEBUG _windows.py:192: Thread started
+2025-03-30 08:33:24 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-f8b492ca-0d06-11f0-9d6f-f4b7e2fcdf53
+2025-03-30 08:43:21 INFO weather.py:369: Fetched new weather data at 2025-03-30 08:43:21.789944
+2025-03-30 08:53:21 INFO weather.py:369: Fetched new weather data at 2025-03-30 08:53:21.783652
+2025-03-30 09:03:21 INFO weather.py:369: Fetched new weather data at 2025-03-30 09:03:21.782957
+2025-03-30 09:06:20 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2025-03-30 09:06:20 INFO event_listener.py:93: Attempting to reconnect...
+2025-03-30 09:06:25 INFO event_listener.py:52: Created named pipe yasb-f8b492ca-0d06-11f0-9d6f-f4b7e2fcdf53
+2025-03-30 09:06:25 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-f8b492ca-0d06-11f0-9d6f-f4b7e2fcdf53
+2025-03-30 09:06:26 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-03-30 09:13:21 INFO weather.py:369: Fetched new weather data at 2025-03-30 09:13:21.784374
+2025-03-30 09:23:21 INFO weather.py:369: Fetched new weather data at 2025-03-30 09:23:21.789336
+2025-03-30 09:33:21 INFO weather.py:369: Fetched new weather data at 2025-03-30 09:33:21.789528
+2025-03-30 09:43:21 INFO weather.py:369: Fetched new weather data at 2025-03-30 09:43:21.778465
+2025-03-30 09:53:21 INFO weather.py:369: Fetched new weather data at 2025-03-30 09:53:21.777464
+2025-03-30 10:03:21 INFO weather.py:369: Fetched new weather data at 2025-03-30 10:03:21.793303
+2025-03-30 10:13:21 INFO weather.py:369: Fetched new weather data at 2025-03-30 10:13:21.799883
+2025-03-30 10:23:23 INFO weather.py:369: Fetched new weather data at 2025-03-30 10:23:23.065754
+2025-03-30 10:33:21 INFO weather.py:369: Fetched new weather data at 2025-03-30 10:33:21.803208
+2025-03-30 10:43:21 INFO weather.py:369: Fetched new weather data at 2025-03-30 10:43:21.812554
+2025-03-30 10:53:21 INFO weather.py:369: Fetched new weather data at 2025-03-30 10:53:21.818140
+2025-03-30 11:03:21 INFO weather.py:369: Fetched new weather data at 2025-03-30 11:03:21.813065
+2025-03-30 11:13:21 INFO weather.py:369: Fetched new weather data at 2025-03-30 11:13:21.808216
+2025-03-30 11:23:21 INFO weather.py:369: Fetched new weather data at 2025-03-30 11:23:21.821841
+2025-03-30 11:33:21 INFO weather.py:369: Fetched new weather data at 2025-03-30 11:33:21.815671
+2025-03-30 11:37:25 DEBUG _windows.py:218: Stopping worker thread...
+2025-03-30 11:37:25 DEBUG _windows.py:201: Exiting thread
+2025-03-30 11:37:25 DEBUG _windows.py:75: Closing
+2025-03-30 14:28:54 INFO log.py:21: Yasb v1.6.6
+2025-03-30 14:28:55 DEBUG win32.py:55: Looking up time zone info from registry
+2025-03-30 14:29:01 INFO weather.py:369: Fetched new weather data at 2025-03-30 14:29:01.535223
+2025-03-30 14:29:01 ERROR weather.py:472: Error fetching weather data: <urlopen error [Errno 11001] getaddrinfo failed>
+2025-03-30 14:29:01 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-03-30 14:29:02 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1366, Screen Height: 768]
+2025-03-30 14:29:03 INFO event_listener.py:52: Created named pipe yasb-a803f7ca-0d38-11f0-ba8f-843a4b54959c
+2025-03-30 14:29:03 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-a803f7ca-0d38-11f0-ba8f-843a4b54959c
+2025-03-30 14:29:03 INFO watcher.py:39: Created file watcher for path C:\Users\xuanchat\.config\yasb
+2025-03-30 14:29:03 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-03-30 14:29:03 DEBUG _windows.py:192: Thread started
+2025-03-30 14:29:04 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-03-30 14:30:42 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-a803f7ca-0d38-11f0-ba8f-843a4b54959c
+2025-03-30 14:34:04 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2025-03-30 14:34:04 INFO event_listener.py:93: Attempting to reconnect...
+2025-03-30 14:34:09 INFO event_listener.py:52: Created named pipe yasb-a803f7ca-0d38-11f0-ba8f-843a4b54959c
+2025-03-30 14:34:09 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-a803f7ca-0d38-11f0-ba8f-843a4b54959c
+2025-03-30 14:34:09 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-03-30 14:39:01 INFO weather.py:369: Fetched new weather data at 2025-03-30 14:39:01.612038
+2025-03-30 14:49:01 INFO weather.py:369: Fetched new weather data at 2025-03-30 14:49:01.532452
+2025-03-30 14:59:01 INFO weather.py:369: Fetched new weather data at 2025-03-30 14:59:01.555397
+2025-03-30 15:09:01 INFO weather.py:369: Fetched new weather data at 2025-03-30 15:09:01.590813
+2025-03-30 15:19:01 INFO weather.py:369: Fetched new weather data at 2025-03-30 15:19:01.629724
+2025-03-30 15:29:01 INFO weather.py:369: Fetched new weather data at 2025-03-30 15:29:01.694065
+2025-03-30 15:39:01 INFO weather.py:369: Fetched new weather data at 2025-03-30 15:39:01.696839
+2025-03-30 15:49:01 INFO weather.py:369: Fetched new weather data at 2025-03-30 15:49:01.728039
+2025-03-30 15:59:01 INFO weather.py:369: Fetched new weather data at 2025-03-30 15:59:01.992623
+2025-03-30 16:09:01 INFO weather.py:369: Fetched new weather data at 2025-03-30 16:09:01.988849
+2025-03-30 16:19:01 INFO weather.py:369: Fetched new weather data at 2025-03-30 16:19:01.978240
+2025-03-30 16:29:02 INFO weather.py:369: Fetched new weather data at 2025-03-30 16:29:02.277549
+2025-03-30 16:35:59 DEBUG _windows.py:218: Stopping worker thread...
+2025-03-30 16:35:59 DEBUG _windows.py:201: Exiting thread
+2025-03-30 16:35:59 DEBUG _windows.py:75: Closing
+2025-03-31 15:25:52 INFO log.py:21: Yasb v1.6.6
+2025-03-31 15:25:53 DEBUG win32.py:55: Looking up time zone info from registry
+2025-03-31 15:25:59 INFO weather.py:369: Fetched new weather data at 2025-03-31 15:25:59.247202
+2025-03-31 15:25:59 ERROR weather.py:472: Error fetching weather data: <urlopen error [Errno 11001] getaddrinfo failed>
+2025-03-31 15:25:59 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-03-31 15:26:00 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1366, Screen Height: 768]
+2025-03-31 15:26:01 INFO event_listener.py:52: Created named pipe yasb-c794edde-0e09-11f0-8c53-f4b7e2fcdf53
+2025-03-31 15:26:01 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-c794edde-0e09-11f0-8c53-f4b7e2fcdf53
+2025-03-31 15:26:01 INFO watcher.py:39: Created file watcher for path C:\Users\xuanchat\.config\yasb
+2025-03-31 15:26:01 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-03-31 15:26:01 DEBUG _windows.py:192: Thread started
+2025-03-31 15:26:02 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-03-31 15:35:59 INFO weather.py:369: Fetched new weather data at 2025-03-31 15:35:59.248132
+2025-03-31 15:40:52 INFO log.py:21: Yasb v1.6.6
+2025-03-31 15:40:53 INFO weather.py:369: Fetched new weather data at 2025-03-31 15:40:53.558325
+2025-03-31 15:40:53 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 58px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1366, Screen Height: 768]
+2025-03-31 15:40:57 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-03-31 15:40:58 DEBUG win32.py:55: Looking up time zone info from registry
+2025-03-31 15:41:03 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 70px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1366, Screen Height: 768]
+2025-03-31 15:41:03 INFO event_listener.py:52: Created named pipe yasb-e1507eb2-0e0b-11f0-83e1-f4b7e2fcdf53
+2025-03-31 15:41:03 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-e1507eb2-0e0b-11f0-83e1-f4b7e2fcdf53
+2025-03-31 15:41:04 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-03-31 15:41:04 DEBUG _windows.py:192: Thread started
+2025-03-31 15:41:04 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-03-31 15:42:59 DEBUG _windows.py:218: Stopping worker thread...
+2025-03-31 15:42:59 DEBUG _windows.py:201: Exiting thread
+2025-03-31 15:42:59 DEBUG _windows.py:75: Closing
+2025-03-31 15:48:14 INFO log.py:21: Yasb v1.6.8
+2025-03-31 15:48:14 INFO log.py:21: Yasb v1.6.8
+2025-03-31 15:48:14 ERROR main.py:83: Another instance of the YASB is already running.
+2025-03-31 15:48:14 ERROR config.py:108: The config file 'C:\Users\xuanchat\.config\yasb\config.yaml' contains validation errors. Please fix:
+hide_taskbar:
+- unknown field
+
+2025-03-31 15:48:14 ERROR config.py:170: User config file could not be loaded. Exiting Application.
+2025-03-31 15:54:13 INFO log.py:21: Yasb v1.6.8
+2025-03-31 15:54:13 ERROR config.py:108: The config file 'C:\Users\xuanchat\.config\yasb\config.yaml' contains validation errors. Please fix:
+hide_taskbar:
+- unknown field
+
+2025-03-31 15:54:13 ERROR config.py:170: User config file could not be loaded. Exiting Application.
+2025-03-31 15:55:30 INFO log.py:21: Yasb v1.6.8
+2025-03-31 15:55:30 ERROR config.py:108: The config file 'C:\Users\xuanchat\.config\yasb\config.yaml' contains validation errors. Please fix:
+hide_taskbar:
+- unknown field
+
+2025-03-31 15:55:30 ERROR config.py:170: User config file could not be loaded. Exiting Application.
+2025-03-31 16:01:13 INFO log.py:21: Yasb v1.6.8
+2025-03-31 16:01:13 ERROR config.py:108: The config file 'C:\Users\xuanchat\.config\yasb\config.yaml' contains validation errors. Please fix:
+hide_taskbar:
+- unknown field
+
+2025-03-31 16:01:13 ERROR config.py:170: User config file could not be loaded. Exiting Application.
+2025-03-31 16:01:24 INFO log.py:21: Yasb v1.6.8
+2025-03-31 16:01:24 ERROR config.py:108: The config file 'C:\Users\xuanchat\.config\yasb\config.yaml' contains validation errors. Please fix:
+hide_taskbar:
+- unknown field
+
+2025-03-31 16:01:24 ERROR config.py:170: User config file could not be loaded. Exiting Application.
+2025-03-31 16:01:33 INFO log.py:21: Yasb v1.6.8
+2025-03-31 16:01:33 ERROR config.py:108: The config file 'C:\Users\xuanchat\.config\yasb\config.yaml' contains validation errors. Please fix:
+hide_taskbar:
+- unknown field
+
+2025-03-31 16:01:33 ERROR config.py:170: User config file could not be loaded. Exiting Application.
+2025-03-31 16:01:52 INFO log.py:21: Yasb v1.6.8
+2025-03-31 16:01:52 ERROR config.py:108: The config file 'C:\Users\xuanchat\.config\yasb\config.yaml' contains validation errors. Please fix:
+hide_taskbar:
+- unknown field
+
+2025-03-31 16:01:52 ERROR config.py:170: User config file could not be loaded. Exiting Application.
+2025-03-31 16:05:06 INFO log.py:21: Yasb v1.6.8
+2025-03-31 16:05:06 ERROR config.py:108: The config file 'C:\Users\xuanchat\.config\yasb\config.yaml' contains validation errors. Please fix:
+hide_taskbar:
+- unknown field
+
+2025-03-31 16:05:06 ERROR config.py:170: User config file could not be loaded. Exiting Application.
+2025-03-31 16:05:19 INFO log.py:21: Yasb v1.6.8
+2025-03-31 16:05:19 ERROR config.py:108: The config file 'C:\Users\xuanchat\.config\yasb\config.yaml' contains validation errors. Please fix:
+hide_taskbar:
+- unknown field
+
+2025-03-31 16:05:19 ERROR config.py:170: User config file could not be loaded. Exiting Application.
+2025-03-31 16:06:10 INFO log.py:21: Yasb v1.6.8
+2025-03-31 16:06:10 ERROR config.py:108: The config file 'C:\Users\xuanchat\.config\yasb\config.yaml' contains validation errors. Please fix:
+hide_taskbar:
+- unknown field
+
+2025-03-31 16:06:10 ERROR config.py:170: User config file could not be loaded. Exiting Application.
+2025-03-31 16:08:59 INFO log.py:21: Yasb v1.6.8
+2025-03-31 16:08:59 ERROR config.py:108: The config file 'C:\Users\xuanchat\.config\yasb\config.yaml' contains validation errors. Please fix:
+hide_taskbar:
+- unknown field
+
+2025-03-31 16:08:59 ERROR config.py:170: User config file could not be loaded. Exiting Application.
+2025-03-31 16:10:14 INFO log.py:21: Yasb v1.6.8
+2025-03-31 16:10:14 ERROR config.py:108: The config file 'C:\Users\xuanchat\.config\yasb\config.yaml' contains validation errors. Please fix:
+hide_taskbar:
+- unknown field
+
+2025-03-31 16:10:14 ERROR config.py:170: User config file could not be loaded. Exiting Application.
+2025-03-31 16:10:26 INFO log.py:21: Yasb v1.6.8
+2025-03-31 16:10:26 ERROR config.py:108: The config file 'C:\Users\xuanchat\.config\yasb\config.yaml' contains validation errors. Please fix:
+hide_taskbar:
+- unknown field
+
+2025-03-31 16:10:26 ERROR config.py:170: User config file could not be loaded. Exiting Application.
+2025-03-31 16:10:50 INFO log.py:21: Yasb v1.6.8
+2025-03-31 16:10:50 ERROR config.py:108: The config file 'C:\Users\xuanchat\.config\yasb\config.yaml' contains validation errors. Please fix:
+hide_taskbar:
+- unknown field
+
+2025-03-31 16:10:50 ERROR config.py:170: User config file could not be loaded. Exiting Application.
+2025-03-31 16:10:56 INFO log.py:21: Yasb v1.6.8
+2025-03-31 16:10:56 ERROR config.py:108: The config file 'C:\Users\xuanchat\.config\yasb\config.yaml' contains validation errors. Please fix:
+hide_taskbar:
+- unknown field
+
+2025-03-31 16:10:56 ERROR config.py:170: User config file could not be loaded. Exiting Application.
+2025-03-31 17:00:38 INFO log.py:21: Yasb v1.6.8
+2025-03-31 17:00:39 DEBUG win32.py:55: Looking up time zone info from registry
+2025-03-31 17:00:49 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-03-31 17:00:50 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 50px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1366, Screen Height: 768]
+2025-03-31 17:00:54 INFO event_listener.py:52: Created named pipe yasb-087bedde-0e17-11f0-9680-f4b7e2fcdf53
+2025-03-31 17:00:54 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-087bedde-0e17-11f0-9680-f4b7e2fcdf53
+2025-03-31 17:00:54 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-03-31 17:00:54 INFO watcher.py:39: Created file watcher for path C:\Users\xuanchat\.config\yasb
+2025-03-31 17:00:54 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-03-31 17:00:54 DEBUG _windows.py:192: Thread started
+2025-03-31 17:00:55 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-03-31 17:04:49 INFO cli_client.py:17: YASB received command stop
+2025-03-31 17:04:49 INFO tray.py:267: Exiting Application...
+2025-03-31 17:04:49 INFO cli_client.py:68: YASB CLI Pipe server stopped
+2025-03-31 17:04:49 INFO cli_client.py:30: YASB CLI Pipe client disconnected
+2025-03-31 17:04:49 DEBUG _windows.py:218: Stopping worker thread...
+2025-03-31 17:04:49 DEBUG _windows.py:201: Exiting thread
+2025-03-31 17:04:49 DEBUG _windows.py:75: Closing
+2025-03-31 17:04:52 INFO log.py:21: Yasb v1.6.8
+2025-03-31 17:04:53 DEBUG win32.py:55: Looking up time zone info from registry
+2025-03-31 17:04:54 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-03-31 17:04:56 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 46px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1366, Screen Height: 768]
+2025-03-31 17:04:57 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-03-31 17:04:57 INFO watcher.py:39: Created file watcher for path C:\Users\xuanchat\.config\yasb
+2025-03-31 17:04:57 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-03-31 17:04:57 DEBUG _windows.py:192: Thread started
+2025-03-31 17:08:27 INFO cli_client.py:17: YASB received command stop
+2025-03-31 17:08:27 INFO tray.py:267: Exiting Application...
+2025-03-31 17:08:27 INFO cli_client.py:68: YASB CLI Pipe server stopped
+2025-03-31 17:08:27 INFO cli_client.py:30: YASB CLI Pipe client disconnected
+2025-03-31 17:08:27 DEBUG _windows.py:218: Stopping worker thread...
+2025-03-31 17:08:27 DEBUG _windows.py:201: Exiting thread
+2025-03-31 17:08:27 DEBUG _windows.py:75: Closing
+2025-03-31 17:08:30 INFO log.py:21: Yasb v1.6.8
+2025-03-31 17:08:31 DEBUG win32.py:55: Looking up time zone info from registry
+2025-03-31 17:08:34 INFO weather.py:369: Fetched new weather data at 2025-03-31 17:08:34.399878
+2025-03-31 17:08:34 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-03-31 17:08:34 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 33px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1366, Screen Height: 768]
+2025-03-31 17:08:34 ERROR weather.py:472: Error fetching weather data: HTTP Error 403: Forbidden
+2025-03-31 17:08:35 INFO event_listener.py:52: Created named pipe yasb-1b5a6260-0e18-11f0-a053-f4b7e2fcdf53
+2025-03-31 17:08:35 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-1b5a6260-0e18-11f0-a053-f4b7e2fcdf53
+2025-03-31 17:08:35 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-03-31 17:08:35 INFO watcher.py:39: Created file watcher for path C:\Users\xuanchat\.config\yasb
+2025-03-31 17:08:35 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-03-31 17:08:35 DEBUG _windows.py:192: Thread started
+2025-03-31 17:08:35 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-03-31 17:08:43 ERROR whkd.py:322: File not found: C:\Users\xuanchat\.config\whkdrc
+2025-03-31 17:10:13 INFO cli_client.py:17: YASB received command stop
+2025-03-31 17:10:13 INFO tray.py:267: Exiting Application...
+2025-03-31 17:10:13 DEBUG _windows.py:218: Stopping worker thread...
+2025-03-31 17:10:13 INFO cli_client.py:68: YASB CLI Pipe server stopped
+2025-03-31 17:10:13 INFO cli_client.py:30: YASB CLI Pipe client disconnected
+2025-03-31 17:10:13 DEBUG _windows.py:201: Exiting thread
+2025-03-31 17:10:14 DEBUG _windows.py:75: Closing
+2025-03-31 17:10:14 ERROR cava.py:244: Error processing audio in Cava: wrapped C/C++ object of type CavaWidget has been deleted
+2025-03-31 17:10:14 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL update_event of TaskbarWidget object at 0x000002835685D6D0>. Removing link to WinEvent.EventObjectDestroy.
+2025-03-31 17:10:18 INFO log.py:21: Yasb v1.6.8
+2025-03-31 17:10:18 DEBUG win32.py:55: Looking up time zone info from registry
+2025-03-31 17:10:19 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-03-31 17:10:21 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 46px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1366, Screen Height: 768]
+2025-03-31 17:10:21 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-03-31 17:10:21 INFO watcher.py:39: Created file watcher for path C:\Users\xuanchat\.config\yasb
+2025-03-31 17:10:21 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-03-31 17:10:21 DEBUG _windows.py:192: Thread started
+2025-03-31 18:06:24 INFO cli_client.py:17: YASB received command stop
+2025-03-31 18:06:24 INFO tray.py:267: Exiting Application...
+2025-03-31 18:06:24 INFO cli_client.py:68: YASB CLI Pipe server stopped
+2025-03-31 18:06:24 INFO cli_client.py:30: YASB CLI Pipe client disconnected
+2025-03-31 18:06:24 DEBUG _windows.py:218: Stopping worker thread...
+2025-03-31 18:06:24 DEBUG _windows.py:201: Exiting thread
+2025-03-31 18:06:24 DEBUG _windows.py:75: Closing
+2025-03-31 18:06:30 INFO log.py:21: Yasb v1.6.8
+2025-03-31 18:06:31 DEBUG win32.py:55: Looking up time zone info from registry
+2025-03-31 18:06:33 INFO weather.py:369: Fetched new weather data at 2025-03-31 18:06:33.764091
+2025-03-31 18:06:35 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-03-31 18:06:36 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 30px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1366, Screen Height: 768]
+2025-03-31 18:06:37 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-03-31 18:06:37 INFO watcher.py:39: Created file watcher for path C:\Users\xuanchat\.config\yasb
+2025-03-31 18:06:37 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-03-31 18:06:37 DEBUG _windows.py:192: Thread started
+2025-03-31 18:07:06 INFO cli_client.py:17: YASB received command stop
+2025-03-31 18:07:06 INFO tray.py:267: Exiting Application...
+2025-03-31 18:07:06 INFO cli_client.py:68: YASB CLI Pipe server stopped
+2025-03-31 18:07:06 INFO cli_client.py:30: YASB CLI Pipe client disconnected
+2025-03-31 18:07:06 DEBUG _windows.py:218: Stopping worker thread...
+2025-03-31 18:07:06 DEBUG _windows.py:201: Exiting thread
+2025-03-31 18:07:06 DEBUG _windows.py:75: Closing
+2025-03-31 18:07:09 INFO log.py:21: Yasb v1.6.8
+2025-03-31 18:07:10 DEBUG win32.py:55: Looking up time zone info from registry
+2025-03-31 18:07:13 INFO weather.py:369: Fetched new weather data at 2025-03-31 18:07:13.133143
+2025-03-31 18:07:13 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-03-31 18:07:13 ERROR weather.py:472: Error fetching weather data: HTTP Error 403: Forbidden
+2025-03-31 18:07:13 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 33px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1366, Screen Height: 768]
+2025-03-31 18:07:13 INFO event_listener.py:52: Created named pipe yasb-4cc27cee-0e20-11f0-887a-f4b7e2fcdf53
+2025-03-31 18:07:13 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-4cc27cee-0e20-11f0-887a-f4b7e2fcdf53
+2025-03-31 18:07:14 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-03-31 18:07:14 INFO watcher.py:39: Created file watcher for path C:\Users\xuanchat\.config\yasb
+2025-03-31 18:07:14 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-03-31 18:07:14 DEBUG _windows.py:192: Thread started
+2025-03-31 18:07:14 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-03-31 18:08:03 INFO cli_client.py:17: YASB received command stop
+2025-03-31 18:08:03 INFO tray.py:267: Exiting Application...
+2025-03-31 18:08:03 INFO cli_client.py:68: YASB CLI Pipe server stopped
+2025-03-31 18:08:03 INFO cli_client.py:30: YASB CLI Pipe client disconnected
+2025-03-31 18:08:03 DEBUG _windows.py:218: Stopping worker thread...
+2025-03-31 18:08:03 DEBUG _windows.py:201: Exiting thread
+2025-03-31 18:08:03 DEBUG _windows.py:75: Closing
+2025-03-31 18:08:03 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL update_event of TaskbarWidget object at 0x000001ECBBF3D6D0>. Removing link to WinEvent.EventObjectDestroy.
+2025-03-31 18:08:06 INFO log.py:21: Yasb v1.6.8
+2025-03-31 18:08:08 DEBUG win32.py:55: Looking up time zone info from registry
+2025-03-31 18:08:08 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-03-31 18:08:10 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 46px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1366, Screen Height: 768]
+2025-03-31 18:08:10 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-03-31 18:08:10 INFO watcher.py:39: Created file watcher for path C:\Users\xuanchat\.config\yasb
+2025-03-31 18:08:10 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-03-31 18:08:10 DEBUG _windows.py:192: Thread started
+2025-03-31 18:11:29 INFO log.py:21: Yasb v1.6.8
+2025-03-31 18:11:29 DEBUG win32.py:55: Looking up time zone info from registry
+2025-03-31 18:11:30 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-03-31 18:11:32 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 46px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1366, Screen Height: 768]
+2025-03-31 18:11:32 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-03-31 18:11:32 INFO watcher.py:39: Created file watcher for path C:\Users\xuanchat\.config\yasb
+2025-03-31 18:11:32 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-03-31 18:11:32 DEBUG _windows.py:192: Thread started
+2025-03-31 18:12:43 INFO log.py:21: Yasb v1.6.8
+2025-03-31 18:12:44 DEBUG win32.py:55: Looking up time zone info from registry
+2025-03-31 18:12:45 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-03-31 18:12:48 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 46px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1366, Screen Height: 768]
+2025-03-31 18:12:48 INFO watcher.py:39: Created file watcher for path C:\Users\xuanchat\.config\yasb
+2025-03-31 18:12:48 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-03-31 18:12:48 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-03-31 18:12:48 DEBUG _windows.py:192: Thread started
+2025-03-31 18:13:00 INFO log.py:21: Yasb v1.6.8
+2025-03-31 18:13:01 DEBUG win32.py:55: Looking up time zone info from registry
+2025-03-31 18:13:02 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-03-31 18:13:03 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 46px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1366, Screen Height: 768]
+2025-03-31 18:13:04 INFO cli_client.py:39: YASB CLI Pipe server started
+2025-03-31 18:13:04 INFO watcher.py:39: Created file watcher for path C:\Users\xuanchat\.config\yasb
+2025-03-31 18:13:04 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-03-31 18:13:04 DEBUG _windows.py:192: Thread started
