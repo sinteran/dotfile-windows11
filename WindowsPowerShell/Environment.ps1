@@ -1,0 +1,1 @@
+$Env:KOMOREBI_CONFIG_HOME = 'C:\Users\xuanchat\.config\komorebi'
