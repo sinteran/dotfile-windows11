@@ -37,7 +37,7 @@ bars:
     widgets:
       left: ["komorebi_workspaces","wallpapers"]
       center: ["clock"]
-      right: ["systray","brightness","divider","volume","divider","memory","divider","uwifi"]
+      right: ["systray","brightness","divider","volume","divider","memory","divider","uwifi","power_menu"]
 widgets:
   clock:
     type: "yasb.clock.ClockWidget"
@@ -245,3 +245,19 @@ widgets:
       label: "󰀄 ngxuanchat "
       label_alt: "󰀄 ngxuanchat "
       class_name: "uwifi-widget"
+  power_menu:
+    type: "yasb.power_menu.PowerMenuWidget"
+    options:
+      label: "\uf011"
+      uptime: True
+      blur: False
+      blur_background: True
+      animation_duration: 200
+      button_row: 5
+      buttons:
+        shutdown: ["\uf011", "Shut Down"]
+        restart: ["\uead2", "Restart"]
+        signout: ["\udb80\udf43", "Sign out"]
+        hibernate: ["\uf28e", "Hibernate"]
+        sleep: ["\u23fe", "Sleep"]
+        cancel: ["", "Cancel"] 
